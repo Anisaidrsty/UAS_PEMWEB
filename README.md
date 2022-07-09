@@ -12,7 +12,7 @@ Untuk mengakses halaman admin :
 
 - password : anisa
 
-Link demo : 
+Link demo : https://youtu.be/647jPbBpYYI
 
 
 Aplikasi Yang di buat memiliki 2 tampilan 
